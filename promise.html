@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    const pro = new Promise((resolve, reject)=>{
+        //pending
+        resolve();
+        reject();
+    })
+    console.log(pro)
+    const result =pro.then(value =>{
+        console.log(pro);
+    })
+    console.log(result)
+
+</script>
+</body>
+</html>

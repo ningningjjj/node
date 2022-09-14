@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "new1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
