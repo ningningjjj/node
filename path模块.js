@@ -7,3 +7,4 @@ const desuffixname = path.basename(mypath,'.js')//在提取出来的文件名结
 
 console.log("路径中完整的的文件名是："+lastname);
 console.log('路径中文件的名字是：'+desuffixname)
+console.log(111)
